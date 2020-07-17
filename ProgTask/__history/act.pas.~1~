@@ -1,0 +1,33 @@
+unit act;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, main, Vcl.ExtCtrls, Vcl.DBCtrls,
+  Vcl.StdCtrls, Vcl.Mask;
+
+type
+  TfrmAct = class(TForm)
+    DBEdit1: TDBEdit;
+    DBEdit2: TDBEdit;
+    DBText1: TDBText;
+    DBText2: TDBText;
+    DBMemo1: TDBMemo;
+    DBText3: TDBText;
+    DBLookupComboBox1: TDBLookupComboBox;
+    Bevel1: TBevel;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  frmAct: TfrmAct;
+
+implementation
+
+{$R *.dfm}
+
+end.

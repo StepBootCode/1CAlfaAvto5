@@ -1,0 +1,13 @@
+Хлам*/
+
+#Ignore thumbnails created by Windows
+*.obj
+*.exe
+*.pdb
+*.bak
+*.log
+[Bb]in
+[Dd]ebug*/
+*.lib
+obj/
+[Rr]elease*/

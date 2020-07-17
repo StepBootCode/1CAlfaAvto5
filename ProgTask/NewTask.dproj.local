@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.159,C:\Users\s23\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\s23\Documents\Embarcadero\Studio\Projects\NewTask.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.577,C:\Users\s23\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\s23\Documents\Embarcadero\Studio\Projects\mainNew.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.827,C:\Users\s23\Documents\Embarcadero\Studio\Projects\mainNew.pas=D:\1СДокументы\ProgTask\mainNew.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.827,C:\Users\s23\Documents\Embarcadero\Studio\Projects\mainNew.dfm=D:\1СДокументы\ProgTask\mainNew.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.264,C:\Users\s23\Documents\Embarcadero\Studio\Projects\NewTask.dproj=D:\1СДокументы\ProgTask\NewTask.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.781,=C:\Users\s23\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.577,C:\Users\s23\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\s23\Documents\Embarcadero\Studio\Projects\mainNew.pas</Transaction>
+  </Transactions>
+</BorlandProject>
